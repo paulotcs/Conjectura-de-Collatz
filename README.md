@@ -1,5 +1,5 @@
 ### Hi everyone
-* This is a space to put some ideas to execute in my exercises...<br>
+* This is a space where I put some ideas to execute in my exercises...<br>
 📃🖊Description:<br>
 
 
