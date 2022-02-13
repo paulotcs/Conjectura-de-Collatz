@@ -1,5 +1,5 @@
-<b>Conjectura de Collatz.xlsm</b> 📃🖊<br>
-Descrição:<br>
+<b>Conjectura de Collatz.xlsm</b><br>
+<i>Descrição</i>: 📃🖊<br>
 Ensaio simples da Conjectura de Collatz em uma planilha de Excel com funções programadas e duas macros.<br>
 Ao se digitar na célula C4, uma função atualiza os cálculos da conjectura matemática em uma tabela.<br>
 Em outro quadro, apresenta a quantidade de pares, ímpares, a quantidade de cálculos efetuados (até chegar ao número 1), a quantidade de números primos (tem uma macro à parte para este último).<br>
